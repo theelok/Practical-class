@@ -1,1 +1,1 @@
-# practical2
+# Practical class
